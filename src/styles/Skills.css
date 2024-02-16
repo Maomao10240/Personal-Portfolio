@@ -1,0 +1,51 @@
+/* .skill {
+  margin-top: 200px;
+  padding: 0 50px 50px 0;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+}*/
+.skill h2 {
+  font-size: 45px;
+  color: #121212;
+  font-weight: 700;
+  display: flex;
+  /* justify-content: ; */
+  padding: 10px, 100px, 10px, 200px;
+}
+
+.skill {
+  margin-top: 80px;
+  margin-bottom: 180px;
+
+  font-size: 35px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skill-slider {
+  width: 80%;
+  margin: 0px;
+  position: relative;
+}
+.skill-slider .item img {
+  width: 80%;
+  margin: 0px 0px 15px 0px;
+}
+.skill h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  color: #e9d35b;
+  height: 50px;
+}
+.skill .list {
+  list-style: none;
+  width: 60%;
+}
+
+.list span {
+  font-size: 20px;
+}
